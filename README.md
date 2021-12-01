@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chaizz
-- 👀 I’m interested in Python、Javascript、GO、Html、SQl etc.
+- 👀 I’m interested in Python、Javascript、GO、Html、SQL etc.
 - 🌱 I’m currently learning Javascript、SQl、Go.
 - 💞️ I’m looking to collaborate on ...
 - 📫 email: chaizzok@163.com
