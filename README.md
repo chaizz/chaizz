@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @chaizz
-- 👀 I’m interested in Python、Javascript、GO etc.
-- 📫 email: chaizzok@163.com
+- 👋 chaizz
+- 👀 主语言：Python，另外对JavaScript、Go、Rust 感兴趣 
+- 📫 微信: CZ646374121
+- 🕸️ 个人网站：[www.chaizz.com](https://www.chaizz.com/) [www.ninth.club](http://ninth.club/)
+- 👣 喜欢摄影、徒步
 <!---
 chaizz/chaizz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
